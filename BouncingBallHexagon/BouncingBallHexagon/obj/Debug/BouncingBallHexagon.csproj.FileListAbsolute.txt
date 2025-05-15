@@ -1,0 +1,9 @@
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\bin\Debug\BouncingBallHexagon.exe.config
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\bin\Debug\BouncingBallHexagon.exe
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\bin\Debug\BouncingBallHexagon.pdb
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.csproj.AssemblyReference.cache
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.Properties.Resources.resources
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.csproj.GenerateResource.cache
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.csproj.CoreCompileInputs.cache
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.exe
+D:\code\vsProject\BouncingBallHexagon\BouncingBallHexagon\obj\Debug\BouncingBallHexagon.pdb
